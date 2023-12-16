@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(239, 239, 84);
+}
+.container1{
+    display: flex;
+}
+.container1 img{
+    height: 250px;
+    width: 400px;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+.first-part h2{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.first-part p{
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50px;
+    font-size: 20px;
+}
+.container2{
+    display: flex;
+}
+.second-part h3{
+    margin-left: 100px;
+    padding-bottom: 20px;
+    padding-top: 20px; 
+    color: blueviolet;
+}
+.second-part ul{
+    margin-left: 50px;
+    margin-right: 100px;
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50px;
+    font-size: 20px;
+
+}
+.container2 img{
+    margin-left: 200px;
+    width: 50%;
+    border-radius: 50px;
+}
+.container3{
+    display: flex;
+}
+.third-part h3{
+    margin-left: 100px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: blueviolet;
+}
+.third-part div{
+    margin-left: 50px;
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50px;
+    font-size: 20px;
+}
+.container3 img{
+    
+    width: 50%;
+    border-radius: 50px;
+}
+.container4{
+    display: flex;
+}
+.fourth-part h3{
+    margin-left: 100px;
+    padding-bottom: 20px;
+    padding-top: 20px; 
+    color: blueviolet;
+}
+.fourth-part ul{
+    margin-left: 50px;
+    margin-right: 100px;
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50px;
+    font-size: 20px;
+
+}
+.container4 img{
+    margin-left: 200px;
+    width: 50%;
+    border-radius: 50px;
+    height: 380px;
+}
+.container5{
+    display: flex;
+}
+.container5 img{
+    width: 50%;
+    border-radius: 50px;
+    height: 380px;
+}
+.fifth-part h3{
+    margin-left: 100px;
+    padding-bottom: 20px;
+    padding-top: 20px; 
+    color: blueviolet;
+}
+.fifth-part ul{
+    margin-left: 50px;
+    margin-right: 100px;
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50px;
+    font-size: 20px;
+}
+.end1{
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+}
+.end2{
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.end2 a{
+    text-decoration: none;
+}
